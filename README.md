@@ -1,7 +1,7 @@
 # Desafio Servidor NestJS
 <h2 align="center">⭐️VHS "Video Club Virtual"⭐️</h2>
 
-## 🌐 [Ver Proyecto en Heroku](https://guillesapag.herokuapp.com/login)
+## 🌐 [Ver Proyecto Final en Heroku](https://guillesapag.herokuapp.com/login)
 
 ## Instalar la linea de comandos de nest 
 $ npm install -g @nestjs/cli
